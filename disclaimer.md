@@ -7,7 +7,7 @@
 
 <br>
 
-The core aim of this project is to co-relate automation and efficiency to extract what is provided to an user on the internet. Every content available in the project is hosted by external non-affiliated sources. 
+The core aim of this project is to co-relate automation and efficiency to extract what is provided to a user on the internet. All content available through the project is hosted by external non-affiliated sources.
 
 <br>
 
@@ -21,9 +21,7 @@ This project is to be used at the user's own risk, based on their government and
 
 This project has no control on the content it is serving, using copyrighted content from the providers is not going to be accounted for by the developer. It is the user's own risk.
 
-
 </b>
-
 
 <br>
 
@@ -32,20 +30,17 @@ This project has no control on the content it is serving, using copyrighted cont
 <br>
 
 <b>
-
 A browser is a tool, and the maliciousness of the tool is directly based on the user.
 </b>
 
+This project uses client-side content access mechanisms. Hence, the copyright infrigements or DMCA in this project's regards are to be forwarded to the associated site by the associated notifier of any such claims. As of writing this is [allanime](https://allanime.to)
 
-This project uses client-side content access mechanisms. Hence, the copyright infrigements or DMCA in this project's regards are to be forwarded to the associated site by the associated notifier of any such claims. As of writing this is gogoanime
-
-<b>Do not harass the maintainer.</b>
-
+<b> Do not harass the maintainer. </b>
 
 <h2>
 Contacting the maintainer
-</h3>
+</h2>
 <br>
 
-Begin by making a GitHub issue or sending an email to ura@ura43.xyz.
+Begin by making a GitHub issue or sending an email to port19@port19.xyz
 </div>
